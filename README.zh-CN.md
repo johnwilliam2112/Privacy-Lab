@@ -4,7 +4,7 @@
 
 一个单文件的 Cloudflare Worker，包含 40 个工具页面，展示网站能了解到你的浏览器和网络的哪些信息：IP 与请求元数据、指纹识别面（Canvas、WebGL、音频、字体等）、隐私信号和安全标头。无依赖、无数据库，不保存任何数据。
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/johnwilliam2112/privacy-lab-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/johnwilliam2112/privacy-lab)
 
 
 ## 功能
