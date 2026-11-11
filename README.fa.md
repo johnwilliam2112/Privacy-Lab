@@ -6,9 +6,8 @@
 
 یک Cloudflare Worker تک‌فایل با ۴۰ صفحه ابزار که نشان می‌دهد یک وب‌سایت چه چیزهایی درباره مرورگر و شبکه شما می‌تواند بفهمد: IP و فراداده‌های درخواست، سطوح اثرانگشت‌گیری (Canvas، WebGL، صدا، فونت‌ها و…)، سیگنال‌های حریم خصوصی و هدرهای امنیتی. بدون وابستگی، بدون پایگاه داده و بدون ذخیره هیچ داده‌ای.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USERNAME/privacy-lab-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/johnwilliam2112/privacy-lab-worker)
 
-> عبارت `YOUR_USERNAME/privacy-lab-worker` را در پیوند دکمه با مخزن **عمومی** GitHub خودتان جایگزین کنید.
 
 ## ویژگی‌ها
 
