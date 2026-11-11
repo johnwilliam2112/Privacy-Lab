@@ -4,9 +4,8 @@
 
 A single-file Cloudflare Worker with 40 tool pages that show what a website can learn about your browser and network: IP and request metadata, fingerprinting surfaces (canvas, WebGL, audio, fonts…), privacy signals, and security headers. No dependencies, no database, nothing is stored.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USERNAME/privacy-lab-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/johnwilliam2112/privacy-lab-worker)
 
-> Replace `YOUR_USERNAME/privacy-lab-worker` in the button link with your own **public** GitHub repository.
 
 ## Features
 
